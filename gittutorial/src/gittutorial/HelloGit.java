@@ -9,5 +9,6 @@ public class HelloGit {
 		System.out.println("Git is fun!!");
 		System.out.println("Git is fun! master!");
 		System.out.println("Git is fun! master! again");
+		System.out.println("Git is fun!! new branch");
 	}
 }
